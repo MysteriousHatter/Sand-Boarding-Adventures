@@ -1,0 +1,4 @@
+Sand-Boarding/Sand-Boarding/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+*.dylib filter=lfs diff=lfs merge=lfs -text
+Sand-Boarding/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Sand-Boarding/Library filter=lfs diff=lfs merge=lfs -text
